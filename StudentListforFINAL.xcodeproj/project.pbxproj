@@ -13,6 +13,7 @@
 		E50BDFA21FDDC3F7009B0F25 /* StudentListforFINAL.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E50BDFA01FDDC3F7009B0F25 /* StudentListforFINAL.xcdatamodeld */; };
 		E50BDFA41FDDC3F7009B0F25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E50BDFA31FDDC3F7009B0F25 /* Assets.xcassets */; };
 		E50BDFA71FDDC3F7009B0F25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E50BDFA51FDDC3F7009B0F25 /* LaunchScreen.storyboard */; };
+		E50BDFB11FDDCF4E009B0F25 /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E50BDFB01FDDCF4E009B0F25 /* StudentDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E50BDFA31FDDC3F7009B0F25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E50BDFA61FDDC3F7009B0F25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E50BDFA81FDDC3F7009B0F25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E50BDFB01FDDCF4E009B0F25 /* StudentDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E50BDF991FDDC3F7009B0F25 /* AppDelegate.swift */,
 				E50BDF9B1FDDC3F7009B0F25 /* ViewController.swift */,
 				E50BDF9D1FDDC3F7009B0F25 /* Main.storyboard */,
+				E50BDFB01FDDCF4E009B0F25 /* StudentDetailViewController.swift */,
 				E50BDFA31FDDC3F7009B0F25 /* Assets.xcassets */,
 				E50BDFA51FDDC3F7009B0F25 /* LaunchScreen.storyboard */,
 				E50BDFA81FDDC3F7009B0F25 /* Info.plist */,
@@ -142,6 +145,7 @@
 				E50BDF9C1FDDC3F7009B0F25 /* ViewController.swift in Sources */,
 				E50BDF9A1FDDC3F7009B0F25 /* AppDelegate.swift in Sources */,
 				E50BDFA21FDDC3F7009B0F25 /* StudentListforFINAL.xcdatamodeld in Sources */,
+				E50BDFB11FDDCF4E009B0F25 /* StudentDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
